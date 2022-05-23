@@ -2,17 +2,16 @@
 Book List App - Unit Test With Jasmine And Karma
 
 
-## npm install
+npm install
 
-## npm run mock
+npm run mock
 
-## ng serve 
+ng serve 
 
-## ng test --code-coverage
+ng test --code-coverage
 
-## ng test
+ng test
 
-## npm run tbuild
+npm run tbuild
 
-## npm run test
-
+npm run test
